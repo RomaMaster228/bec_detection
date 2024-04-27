@@ -1,3 +1,4 @@
 # Интеллектуальная система обнаружения признаков компрометации корпоративной электронной почты
 
-Команада для загрузки датасета - curl https://www.cs.cmu.edu/~enron/enron_mail_20150507.tar.gz > enron_mail_20150507
+## Загрузка датасета
+curl https://www.cs.cmu.edu/~enron/enron_mail_20150507.tar.gz > enron_mail_20150507
